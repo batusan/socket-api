@@ -1,0 +1,17 @@
+{
+  "name": "wtg-socket-api",
+  "version": "0.0.1",
+  "description": "socket api library for wtg server",
+  "main": "index.js",
+  "author": "batusan",
+  "license": "MIT",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "type": "module",
+  "dependencies": {
+    "express": "^4.18.1",
+    "install": "^0.13.0",
+    "socket.io": "^4.5.2"
+  }
+}
